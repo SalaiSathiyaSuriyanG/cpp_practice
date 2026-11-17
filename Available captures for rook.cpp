@@ -1,5 +1,6 @@
 
 /* ================================== LeetCode Version ======================================
+- LeetCode Link : https://leetcode.com/problems/available-captures-for-rook/description/
 
 - Time Complexity: O(64) 
 - Space Complexity: O(1) 

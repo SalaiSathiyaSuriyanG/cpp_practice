@@ -1,5 +1,6 @@
 
 /* ================================== LeetCode version ======================================
+- LeetCode Link : https://leetcode.com/problems/construct-the-rectangle/description/
 
 - Time Complexity: O(√n) //Where n is the input area. 
 - Space Complexity: O(1) 

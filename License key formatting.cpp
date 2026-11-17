@@ -1,5 +1,6 @@
 
 /* ================================== LeetCode version ======================================
+- LeetCode Link : https://leetcode.com/problems/license-key-formatting/
 
 - Time Complexity: O(n) //n is the length of the string s.
 - Space Complexity: O(1) //We're creating a new string that stores almost all the characters from the input plus some dashes.So extra memory grows linearly with input size:

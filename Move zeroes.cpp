@@ -1,9 +1,9 @@
-#include <iostream>
-#include <vector>
-using namespace std;
 
-/* ==================== Leetcode version ========================= 
-    Leetcode Problem .no: 283
+/* ================================== Leetcode version ================================= 
+- LeetCode Link : https://leetcode.com/problems/move-zeroes/description/
+
+- Time Complexity: O(n) 
+- Space Complexity: O(1) 
 
 class Solution {
 public:
@@ -21,9 +21,13 @@ public:
         }
     }
 }; 
-==================================================== */
+======================================================================================= */
 
-// ====================Runnable Version ===========================
+// ================================== Runnable Version ===================================
+#include <iostream>
+#include <vector>
+using namespace std;
+
 void moveZeroes(vector<int>& nums){
     int nonZero = 0;
     for(int i = 0; i < nums.size(); i++){

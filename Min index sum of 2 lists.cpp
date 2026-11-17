@@ -1,5 +1,6 @@
 
 /* ================================== LeetCode version ======================================
+- LeetCode Link : https://leetcode.com/problems/minimum-index-sum-of-two-lists/description/
 
 - Time Complexity: O(n + m) //where n and m are the sizes of the two input lists.
 - Space Complexity: O(n) //For storing the elements of one list in a hash map.

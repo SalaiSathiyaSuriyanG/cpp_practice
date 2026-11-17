@@ -1,5 +1,6 @@
 
 /* ================================== LeetCode version ======================================
+- LeetCode Link : https://leetcode.com/problems/longest-harmonious-subsequence/
 
 - Time Complexity: O(n log n) 
 - Space Complexity: O(1) 

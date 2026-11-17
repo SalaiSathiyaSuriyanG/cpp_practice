@@ -1,5 +1,6 @@
 
 /* ================================== LeetCode version ======================================
+- LeetCode Link : https://leetcode.com/problems/base-7/description/
 
 - Time Complexity: O(log n)  //where k is the number of digits in num, O(k) = O(log_7(n)) = O(log n)
 - Space Complexity: O(log n) 

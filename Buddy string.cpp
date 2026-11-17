@@ -1,5 +1,6 @@
 
 /* ================================== LeetCode Version ======================================
+- LeetCode Link : https://leetcode.com/problems/buddy-strings/description/
 
 - Time Complexity: O(n) 
 - Space Complexity: O(n) //Because of the unordered_set. 

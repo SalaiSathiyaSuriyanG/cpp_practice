@@ -1,5 +1,6 @@
 
 /* ================================== LeetCode version ======================================
+- LeetCode Link : https://leetcode.com/problems/arranging-coins/description/
 
 - Time Complexity: O(√n) // The while loop runs until the sum of the first k natural numbers exceeds n,
                             which happens around k ≈ √(2n).

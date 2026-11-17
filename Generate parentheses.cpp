@@ -1,5 +1,6 @@
 
 /* ==================== LeetCode version =========================
+- LeetCode Link : https://leetcode.com/problems/generate-parentheses/description/
 
 - Time Complexity: O(4^n/√n) // The number of valid parentheses combinations is given by 
                                   the nth Catalan number, which is approximately O(4^n/√n).

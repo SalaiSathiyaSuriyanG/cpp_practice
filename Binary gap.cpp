@@ -1,5 +1,6 @@
 
 /* ================================== LeetCode Version ======================================
+- LeetCode Link : https://leetcode.com/problems/binary-gap/description/
 
 - Time Complexity: O(log n) //Because we are iterating through the bits of the number, 
                             //which is logarithmic in relation to the value of n. 

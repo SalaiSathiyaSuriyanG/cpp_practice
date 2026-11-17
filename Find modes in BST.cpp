@@ -1,5 +1,6 @@
 
 /* ================================== LeetCode version ======================================
+- LeetCode Link : https://leetcode.com/problems/find-mode-in-binary-search-tree/description/
 
 - Time Complexity: O(n) //n is the number of nodes and k is the number of unique values. O(n+k) = O(n) since k<=n
 - Space Complexity: O(n) //In the worst case,all values are frequently occurred elements.

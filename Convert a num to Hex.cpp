@@ -1,5 +1,6 @@
 
 /* ================================== LeetCode version ======================================
+- LeetCode Link : https://leetcode.com/problems/convert-a-number-to-hexadecimal/description/
 
 - Time Complexity: O(8) //In the worst case,we will have at most 8 hexadecimal digits for a 32-bit integer.
 - Space Complexity: O(1)

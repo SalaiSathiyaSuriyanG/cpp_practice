@@ -1,5 +1,6 @@
 
 /* ==================== LeetCode version =========================
+- LeetCode Link : https://leetcode.com/problems/implement-queue-using-stacks/
 
 - Time Complexity: O(n) //Push is O(1).pop and peek are O(1) amortized, 
                         but O(n) in the worst case due to stack transfer form s1 to s2.

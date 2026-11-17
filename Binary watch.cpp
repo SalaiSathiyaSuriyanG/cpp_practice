@@ -1,5 +1,6 @@
 
 /* ================================== LeetCode version ======================================
+- LeetCode Link : https://leetcode.com/problems/binary-watch/description/
 
 - Time Complexity: O(1) // The number of possible times on a binary watch is constant (12 hours * 60 minutes = 720 combinations).
 - Space Complexity: O(k) // Where k is the number of valid times stored in result,which is at most 720.

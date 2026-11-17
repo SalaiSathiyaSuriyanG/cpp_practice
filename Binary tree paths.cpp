@@ -1,5 +1,6 @@
 
 /* ================================== LeetCode version ======================================
+- LeetCode Link : https://leetcode.com/problems/binary-tree-paths/description/
 
 - Time Complexity: O(n)
 - Space Complexity: O(n log n) //we process through all the elements,and each one costs about log n work

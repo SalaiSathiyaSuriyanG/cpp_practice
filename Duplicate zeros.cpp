@@ -1,5 +1,6 @@
 
 /* ================================== LeetCode Version ======================================
+- LeetCode Link : https://leetcode.com/problems/duplicate-zeros/description/
 
 - Time Complexity: O(n) 
 - Space Complexity: O(1) 

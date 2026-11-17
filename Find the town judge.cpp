@@ -1,5 +1,6 @@
 
 /* ================================== LeetCode Version ======================================
+- LeetCode Link : https://leetcode.com/problems/find-the-town-judge/description/
 
 - Time Complexity: O(N + T) // Where N is the number of people and T is the number of trust pairs.
 - Space Complexity: O(N) 

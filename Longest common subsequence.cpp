@@ -1,5 +1,6 @@
 
 /* ================================== LeetCode version ======================================
+- LeetCode Link : https://leetcode.com/problems/longest-common-subsequence/
 
 - Time Complexity: O(n*m) //where n is the length of text1 and m is the length of text2
 - Space Complexity: O(n) 

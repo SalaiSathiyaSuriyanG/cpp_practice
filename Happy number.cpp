@@ -1,5 +1,6 @@
 
 /* ==================== LeetCode version =========================
+- LeetCode Link : https://leetcode.com/problems/happy-number/description/
 
 - Time Complexity: O(log n) // The number of digits in n is log10(n).
 

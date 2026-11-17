@@ -1,5 +1,6 @@
 
 /* ================================== LeetCode version ======================================
+- LeetCode Link : https://leetcode.com/problems/binary-search/description/
 
 - Time Complexity: O(log n) 
 - Space Complexity: O(1) 

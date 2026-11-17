@@ -1,5 +1,6 @@
 
 /* ================================== LeetCode version ======================================
+- LeetCode Link : https://leetcode.com/problems/longest-consecutive-sequence/
 
 - Time Complexity: O(n) 
 - Space Complexity: O(n) //Hashset is used to store the elements of the array.

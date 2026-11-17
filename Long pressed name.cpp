@@ -1,5 +1,6 @@
 
 /* ================================== LeetCode Version ======================================
+- LeetCode Link : https://leetcode.com/problems/long-pressed-name/
 
 - Time Complexity: O(n) //Where n is the length of the typed string
 - Space Complexity: O(1) 

@@ -1,6 +1,7 @@
 
 /* ==================== LeetCode version =========================
-- Leetcode Problem :  
+- LeetCode Link : https://leetcode.com/problems/longest-common-prefix/
+
 - Time Complexity: O(N*M)
 - Space Complexity: O(M)
 

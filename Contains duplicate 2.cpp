@@ -1,5 +1,6 @@
 
 /* ==================== LeetCode version =========================
+- LeetCode Link : https://leetcode.com/problems/contains-duplicate-ii/description/
 
 - Time Complexity: O(n*k)
 - Space Complexity: O(1)

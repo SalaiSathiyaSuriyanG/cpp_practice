@@ -1,5 +1,6 @@
 
 /* ================================== LeetCode Version ======================================
+- LeetCode Link : https://leetcode.com/problems/design-add-and-search-words-data-structure/description/
 
 - Time Complexity: 
     Insert: O(L)

@@ -1,5 +1,6 @@
 
 /* ================================== LeetCode version ======================================
+- LeetCode Link : https://leetcode.com/problems/binary-number-with-alternating-bits/description/
 
 - Time Complexity: O(1) 
 - Space Complexity: O(1) 

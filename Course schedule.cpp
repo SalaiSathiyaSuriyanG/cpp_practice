@@ -1,5 +1,6 @@
 
 /* ================================== LeetCode version ======================================
+- LeetCode Link : https://leetcode.com/problems/course-schedule/description/
 
 - Time Complexity: O(V + E)  //Where V = number of courses (vertices/nodes) and E = number of prerequisite pairs (edges).
 - Space Complexity: O(V + E) 

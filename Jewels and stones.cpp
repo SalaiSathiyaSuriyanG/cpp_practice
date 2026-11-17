@@ -1,5 +1,6 @@
 
 /* ================================== LeetCode Version ======================================
+- LeetCode Link : https://leetcode.com/problems/jewels-and-stones/
 
 - Time Complexity: O(m*n) 
 - Space Complexity: O(1) 

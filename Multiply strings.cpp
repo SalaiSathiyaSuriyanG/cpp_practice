@@ -1,5 +1,6 @@
 
 /* ================================== LeetCode version ======================================
+- LeetCode Link :https://leetcode.com/problems/multiply-strings/description/
 
 - Time Complexity: O(n * m) // where n and m are the lengths of num1 and num2 respectively
 - Space Complexity: O(n + m) //In the worst case, the result can have at most n + m digits

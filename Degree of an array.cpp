@@ -1,5 +1,6 @@
 
 /* ================================== LeetCode version ======================================
+- LeetCode Link : https://leetcode.com/problems/degree-of-an-array/description/
 
 - Time Complexity: O(n) 
 - Space Complexity: O(k) 
