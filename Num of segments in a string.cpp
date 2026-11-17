@@ -1,5 +1,6 @@
 
 /* ================================== LeetCode version ======================================
+- LeetCode Link : https://leetcode.com/problems/number-of-segments-in-a-string/description/
 
 - Time Complexity: O(n) //n is the length of the string 
 - Space Complexity: O(1)

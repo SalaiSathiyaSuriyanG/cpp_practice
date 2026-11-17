@@ -1,5 +1,6 @@
 
 /* ================================== LeetCode Version ======================================
+- LeetCode Link : https://leetcode.com/problems/number-of-recent-calls/description/
 
 - Time Complexity: O(n) //Where n is the number of pings.
 - Space Complexity: O(n) //We are storing the pings in a queue.

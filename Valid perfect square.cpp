@@ -1,5 +1,6 @@
 
 /* ================================== LeetCode version ======================================
+- LeetCode Link : https://leetcode.com/problems/valid-perfect-square/description/
 
 - Time Complexity: O(log n) //Binary search
 - Space Complexity: O(1)

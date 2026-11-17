@@ -1,5 +1,6 @@
 
 /* ================================== LeetCode Version ======================================
+- LeetCode Link : https://leetcode.com/problems/prime-number-of-set-bits-in-binary-representation/description/
 
 - Time Complexity: O(D*(sqrt(log n))) //Where D is the diff btw right and left
 - Space Complexity: O(1) 

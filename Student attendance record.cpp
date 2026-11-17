@@ -1,5 +1,6 @@
 
 /* ================================== LeetCode version ======================================
+- LeetCode Link : https://leetcode.com/problems/student-attendance-record-i/description/
 
 - Time Complexity: O(n*m) //Where n is the no.of students and m is the average length of the attendance string
 - Space Complexity: O(n*m) 

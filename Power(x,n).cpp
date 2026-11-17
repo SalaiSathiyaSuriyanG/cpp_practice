@@ -1,5 +1,6 @@
 
 /* ================================== LeetCode version ======================================
+- LeetCode Link : https://leetcode.com/problems/powx-n/description/
 
 - Time Complexity: O(log n) //BEcause, N/=2 cuts n in half at each step
 - Space Complexity: O(1)

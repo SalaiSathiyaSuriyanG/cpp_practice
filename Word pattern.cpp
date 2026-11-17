@@ -1,5 +1,6 @@
 
 /* ================================== LeetCode version ======================================
+- LeetCode Link : https://leetcode.com/problems/word-pattern/description/
 
 - Time Complexity: O(n)
 - Space Complexity: O(n) //Worst case when all characters in pattern are unique and all words in s are unique

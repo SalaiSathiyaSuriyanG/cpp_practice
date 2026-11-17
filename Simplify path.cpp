@@ -1,5 +1,6 @@
 
 /* ================================== LeetCode version ======================================
+- LeetCode Link : https://leetcode.com/problems/simplify-path/description/
 
 - Time Complexity: O(n)
 - Space Complexity: O(n) //In the worst case,stack stores all the directory names in the path.

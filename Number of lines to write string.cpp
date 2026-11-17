@@ -1,5 +1,6 @@
 
 /* ================================== LeetCode Version ======================================
+- LeetCode Link : https://leetcode.com/problems/number-of-lines-to-write-string/description/
 
 - Time Complexity: O(n) //Where n is the length of the string s.
 - Space Complexity: O(1) 

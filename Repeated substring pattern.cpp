@@ -1,5 +1,6 @@
 
 /* ================================== LeetCode version ======================================
+- LeetCode Link : https://leetcode.com/problems/repeated-substring-pattern/description/
 
 - Time Complexity: O(n^2) /*The outer loop runs upto n/2 times,and the inner loop can run upto n/len times,which in the worst case can be O(n). 
 Therefore, the overall time complexity is O(n^2)/ 

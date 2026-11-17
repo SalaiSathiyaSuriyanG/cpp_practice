@@ -1,5 +1,6 @@
 
 /* ================================== LeetCode version ======================================
+- LeetCode Link : https://leetcode.com/problems/reshape-the-matrix/description/
 
 - Time Complexity: O(m*n) //where m is no.of rows and n is the no.of columns
 - Space Complexity: O(r*c) //Because of Reshape matrix

@@ -1,5 +1,6 @@
 
 /* ================================== LeetCode Version ======================================
+- LeetCode Link : https://leetcode.com/problems/smallest-range-i/description/
 
 - Time Complexity: O(n) 
 - Space Complexity: O(1) 

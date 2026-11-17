@@ -1,5 +1,6 @@
 
 /* ================================== LeetCode version ======================================
+- LeetCode Link : https://leetcode.com/problems/1-bit-and-2-bit-characters/description/
 
 - Time Complexity: O(n) 
 - Space Complexity: O(1) 

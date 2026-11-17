@@ -1,5 +1,6 @@
 
 /* ================================== LeetCode version ======================================
+- LeetCode Link : https://leetcode.com/problems/range-sum-query-immutable/description/
 
 - Time Complexity: O(n + q) //Where n is the size of the input array and q is the number of queries.
 - Space Complexity: O(n) //We create a prefix sum array of size n.

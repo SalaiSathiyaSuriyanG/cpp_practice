@@ -1,5 +1,6 @@
 
 /* ================================== LeetCode version ======================================
+- LeetCode Link : https://leetcode.com/problems/next-greater-element-i/description/
 
 - Time Complexity: O(n + m) //n is the size of nums1 and m is the size of nums2.
 - Space Complexity: O(n) 

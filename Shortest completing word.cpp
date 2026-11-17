@@ -1,5 +1,6 @@
 
 /* ================================== LeetCode version ======================================
+- LeetCode Link : https://leetcode.com/problems/shortest-completing-word/description/
 
 - Time Complexity: O(L + n*m) //Where L = length of licensePlate, n = no.of words in words 
                               //and m = avg length of word. 

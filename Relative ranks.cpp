@@ -1,5 +1,6 @@
 
 /* ================================== LeetCode version ======================================
+- LeetCode Link : https://leetcode.com/problems/relative-ranks/description/
 
 - Time Complexity: O(n log n) //Sorting takes O(n log n) time
 - Space Complexity: O(n) 

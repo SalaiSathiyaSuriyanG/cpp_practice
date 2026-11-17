@@ -1,5 +1,6 @@
 
 /* ================================== LeetCode Version ======================================
+- LeetCode Link : https://leetcode.com/problems/verifying-an-alien-dictionary/description/
 
 - Time Complexity: O(N * L) //Where N is the number of words and L is the max length of a word.
 - Space Complexity: O(1) 

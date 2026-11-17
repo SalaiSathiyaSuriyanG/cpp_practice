@@ -1,5 +1,6 @@
 
 /* ================================== LeetCode version ======================================
+- LeetCode Link : https://leetcode.com/problems/power-of-four/description/
 
 - Time Complexity: O(log_4(​n))
 - Space Complexity: O(1)

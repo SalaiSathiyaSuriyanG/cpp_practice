@@ -1,5 +1,6 @@
 
 /* ================================== LeetCode version ======================================
+- LeetCode Link : https://leetcode.com/problems/ransom-note/description/
 
 - Time Complexity: O(n + m) //Beacuse we scan through both the strings once.
 - Space Complexity: O(1)

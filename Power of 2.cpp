@@ -1,5 +1,6 @@
 
 /* ==================== LeetCode version =========================
+- LeetCode Link : https://leetcode.com/problems/power-of-two/description/
 
 - Time Complexity: O(1) // we are doing a constant number of operations.
 - Space Complexity: O(1)

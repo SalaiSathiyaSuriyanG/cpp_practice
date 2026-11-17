@@ -1,5 +1,6 @@
 
 /* ================================== LeetCode Version ======================================
+- LeetCode Link : https://leetcode.com/problems/n-repeated-element-in-size-2n-array/description/
 
 - Time Complexity: O(n)  
 - Space Complexity: O(n) //We store the frequency of each element in a hash map. 

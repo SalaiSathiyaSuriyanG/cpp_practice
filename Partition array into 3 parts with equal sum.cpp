@@ -1,5 +1,6 @@
 
 /* ================================== LeetCode Version ======================================
+- LeetCode Link : https://leetcode.com/problems/partition-array-into-three-parts-with-equal-sum/description/
 
 - Time Complexity: O(n) 
 - Space Complexity: O(1) 

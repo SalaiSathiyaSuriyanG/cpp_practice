@@ -1,5 +1,6 @@
 
 /* ================================== LeetCode version ======================================
+- LeetCode Link : https://leetcode.com/problems/power-of-three/description/
 
 - Time Complexity: O(log_3(​n)) 
 - Space Complexity: O(1)

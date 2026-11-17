@@ -1,5 +1,6 @@
 
 /* ================================== LeetCode version ======================================
+- LeetCode Link : https://leetcode.com/problems/ugly-number/description/
 
 - Time Complexity: O(log n) //We divide n by 2,3 and 5 as many times as possible.
 - Space Complexity: O(1)

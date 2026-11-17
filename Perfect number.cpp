@@ -1,5 +1,6 @@
 
 /* ================================== LeetCode version ======================================
+- LeetCode Link : https://leetcode.com/problems/perfect-number/description/
 
 - Time Complexity: O(n) 
 - Space Complexity: O(1) 

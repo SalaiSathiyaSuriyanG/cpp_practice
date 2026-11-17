@@ -1,5 +1,6 @@
 
 /* ================================== LeetCode Version ======================================
+- LeetCode Link : https://leetcode.com/problems/triangle/description/
 
 - Time Complexity: O(n^2) //Where n is the number of rows in the triangle. 
 - Space Complexity: O(1) 

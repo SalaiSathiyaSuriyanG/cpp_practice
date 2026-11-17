@@ -1,5 +1,6 @@
 
 /* ================================== LeetCode version ======================================
+- LeetCode Link : https://leetcode.com/problems/word-search/description/
 
 - Time Complexity: O(n*m*4^k) //Where n is the number of rows, m is the number of columns, 4 represents the directions and k is the length of the word.
 - Space Complexity: O(n*m) //For the visited array.

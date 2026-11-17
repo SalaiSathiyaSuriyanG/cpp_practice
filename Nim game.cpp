@@ -1,5 +1,6 @@
 
 /* ================================== LeetCode version ======================================
+- LeetCode Link : https://leetcode.com/problems/nim-game/description/
 
 - Time Complexity: O(1)
 - Space Complexity: O(1)

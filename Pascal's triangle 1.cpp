@@ -1,5 +1,6 @@
 
 /* ==================== LeetCode version =========================
+- LeetCode Link :  https://leetcode.com/problems/pascals-triangle/description/
 
 - Time Complexity: O(n^2)
 - Space Complexity: O(n^2)
