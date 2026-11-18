@@ -1,6 +1,6 @@
 
 /* ================================== LeetCode Version ======================================
-- LeetCode Link : https://leetcode.com/problems/sort-list/?envType=problem-list-v2&envId=two-pointers
+- LeetCode Link : https://leetcode.com/problems/sort-list/description/
 
 - Time Complexity : O(n log n) 
 - Space Complexity : O(log n) 
