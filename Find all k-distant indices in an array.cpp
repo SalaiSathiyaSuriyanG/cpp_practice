@@ -1,6 +1,6 @@
 
 /* ================================== LeetCode Version ======================================
-- LeetCode Link :
+- LeetCode Link : https://leetcode.com/problems/find-all-k-distant-indices-in-an-array/description/
 
 - Time Complexity : O(n) 
 - Space Complexity : O(1) 
