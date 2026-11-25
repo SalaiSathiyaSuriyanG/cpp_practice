@@ -70,8 +70,9 @@ int main(){
     vector<int> result = sol.findKDistantIndices(nums, key, k);
     cout <<"The K - distant indices are : [";
     for(int i = 0; i < result.size(); i++){
-        cout << result[i];
+        cout << result[i] << " ";
     }
+    cout <<"]"<< endl;
     
     return 0;
 }
